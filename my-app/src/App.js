@@ -11,25 +11,25 @@ function App() {
     },
     {
       id: 'e1',
-      title: 'Alex Toilet Paper',
+      title: 'Toilet Paper',
       amount: 400,
       date: new Date(2021, 12, 14),
     },
     {
       id: 'e2',
-      title: 'Sigrids New TV',
+      title: 'New TV',
       amount: 8000,
       date: new Date(2022, 0, 12)
     },
     {
       id: 'e3',
-      title: 'Adrians neSCar Insurance',
+      title: 'Car Insurance',
       amount: 2940,
       date: new Date(2022, 1, 1),
     },
     {
       id: 'e4',
-      title: 'Hildurs New Desk (Wooden)',
+      title: 'New Desk (Wooden)',
       amount: 4500,
       date: new Date(2022, 1, 24),
     },
