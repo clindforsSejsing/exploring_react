@@ -5,7 +5,7 @@ function Card(props) {
 
     return <div className={classes}>{props.children}</div>;
 }
-
+//props.childern is a built in function in react
 export default Card;
 
 
